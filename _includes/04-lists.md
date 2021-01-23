@@ -1,1 +1,6 @@
-Replace this with a list of your favorite things.
+Favorite activities:
+- tennis
+  - training
+  - match
+- learning
+- programming
